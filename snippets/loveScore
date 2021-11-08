@@ -1,0 +1,22 @@
+prompt("What's your name?")
+prompt("What's their name?")
+
+if (n >80){
+    alert ("Your love score is " + n + "!! Your love each other like go likes ogle");
+}
+
+if(n > 30 && n <=70){
+    alert ("Your love score is " + n + "!!");
+}
+
+if(n <=30){
+    alert ("Your love score is " + n + "!! Don't give up!");
+}
+
+
+
+
+var n = Math.random();
+n=n*100;
+n= Math.floor(n)+1;
+

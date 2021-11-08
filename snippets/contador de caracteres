@@ -1,0 +1,12 @@
+var write = prompt("Write something");
+var writecount = write.length;
+var writeleft = (writecount-240);
+
+if (writecount>240){
+    alert("Your text have been cut")
+    write.slice(0,239)
+}
+else if (writecount<240){
+    alert ("You have written "+writecount+" characters and you have "+writeleft+" left!");
+}
+
