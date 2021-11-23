@@ -12,15 +12,20 @@ body{
 .challenge1 {
     display: flex;
     justify-content: flex-start;
-    margin: 5%;
+    margin-left: 2%;
 }
 .challenge1Link {
     margin: 2%;
     text-decoration: auto;
     color: honeydew;
 }
-.fab{
+.fab {
     font-weight: 400;
     font-size: 96px;
     color: gold;
+    margin-top: 5%;
+    margin-left: 14%;
+    margin-bottom: 1%;
 }
+
+
