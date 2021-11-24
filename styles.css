@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/351345-dark-minimalist-wallpaper.jpeg);
+    background-image: url(images/background.jpeg);
 
 }
 .title-style {
@@ -8,6 +8,11 @@ body{
     padding-left: 17px;
     display: flex;
     font-size: 35px;
+}
+.section1 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 3%;
 }
 .challenge1 {
     display: flex;
@@ -23,9 +28,11 @@ body{
     font-weight: 400;
     font-size: 96px;
     color: gold;
-    margin-top: 5%;
-    margin-left: 14%;
-    margin-bottom: 1%;
+
+}
+i.fas.tests_icon.fa-code {
+    color: gold;
+    font-size: 76px;
 }
 
 
