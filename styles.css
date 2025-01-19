@@ -8,11 +8,15 @@ body{
     padding-left: 17px;
     display: flex;
     font-size: 35px;
+    font-weight: 200;
 }
+
+
 .section1 {
     display: flex;
-    margin-top: 10%;
-    margin-left: 3%;
+    margin-top: 4%;
+    margin-left: 2%;
+
 }
 .challenge1 {
     display: flex;
@@ -23,6 +27,9 @@ body{
     margin: 2%;
     text-decoration: auto;
     color: honeydew;
+    font-weight: 200;
+
+    
 }
 .fab {
     font-weight: 400;
@@ -31,8 +38,15 @@ body{
 
 }
 i.fas.tests_icon.fa-code {
-    color: gold;
     font-size: 76px;
 }
+.oranjeicon {
+    color:orangered
+}
+.yellowicon{
+    color:yellow
+}
+
+
 
 
